@@ -1,16 +1,20 @@
-## Hi there 👋
 
-<!--
-**Edward1512/Edward1512** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+# Github ReadME
 
-Here are some ideas to get you started:
+Brief Personalized ReadMe Section for Proyect
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+# Ivan Eduardo Castro Arambula 
+I'm a Flutter Mobile Developer and Software Tester.
+
+
+
+
+## Log
+
+
+### Week 1
+
+Not much learning done. It was mostly a review of Git commands and previewing Future themes. It was interesting nonetheless. A few interesting sites and tools were used such as:
+- Odin Project
+- readme.so
+
